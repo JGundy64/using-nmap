@@ -1,7 +1,7 @@
 # Using Nmap (The nmap Cheat Sheet)
-This repository was created as a guide for those interested in cybersecurity and specifically penetration testing or network analysis. This guide is aimed at absolute beginners, but hopefully more experienced users can use this guide as a quick refference or when teaching others. 
+This repository was created as a guide for those interested in cybersecurity and specifically penetration testing or network analysis. This guide is aimed at absolute beginners, but hopefully more experienced users can use this guide as a quick refference or when teaching others. Ways to contribute can be found in the contributing.md file. 
 
-# Table of Contents
+# Wiki Table of Contents
 1. [What is Nmap?](https://github.com/JGundy64/using-nmap/wiki/What-is-Nmap)
 1. [Recommended Knowledge](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge)
     1. [CIDR notation](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge#cidr-notation)
