@@ -6,3 +6,4 @@ This repository was created as a guide or wiki for those interested in cybersecu
 ## TODO List:
 - [ ] Add a thankyou / acknowledgements section
 - [ ] Add graphics to the wiki
+- [ ] Change the GitHub link banner icon
