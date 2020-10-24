@@ -2,23 +2,24 @@
 This repository was created as a guide for those interested in cybersecurity and specifically penetration testing or network analysis. This guide is aimed at absolute beginners, but hopefully more experienced users can use this guide as a quick refference or when teaching others. 
 
 # Table of Contents
-1. What is nmap
-1. Nmap Syntax
-1. Recommended Knowlege
-    1. CIDR notation
-    1. TCP / UDP Networking
-        1. TCP Flags
-        2. UDP operation
-    1. Common Firewall Configuration
-1. Host Discovery
-1. Packet-Based Flags
-    1. TCP Options
-    1. UDP Options
-1. Port Specification and Scan Order
-1. Nmap Scripting Engine
-1. OS Detection
-1. Output Options
-1. Firewall Evasion
-    1. Spoofing
-    1. Timing and Performance
-1. Useful Pre-made commands
+1. [What is Nmap?](https://github.com/JGundy64/using-nmap/wiki/What-is-Nmap)
+1. [Recommended Knowledge](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge)
+    1. [CIDR notation](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge#cidr-notation)
+    1. [TCP / UDP Networking](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge#tcp--udp-networking)
+        1. [TCP Operation](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge#tcp-operation)
+        1. [UDP Operation](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge#udp-operation)
+    1. [Common Firewall Types](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge#common-firewall-types-and-operation)
+    1. [Port States](https://github.com/JGundy64/using-nmap/wiki/Recommended-Knowledge#port-states-supported-by-nmap)
+1. [Nmap Syntax Basics](https://github.com/JGundy64/using-nmap/wiki/Nmap-Syntax-Basics)
+1. [Host Discovery](https://github.com/JGundy64/using-nmap/wiki/Host-Discovery)
+1. [Protocol Based Options](https://github.com/JGundy64/using-nmap/wiki/Protocol-Based-Options)
+    1. [TCP Options](https://github.com/JGundy64/using-nmap/wiki/Protocol-Based-Options#tcp-packet-options)
+    1. [UDP Options](https://github.com/JGundy64/using-nmap/wiki/Protocol-Based-Options#udp-packet-options)
+1. [Port Specification and Scan Order](https://github.com/JGundy64/using-nmap/wiki/Port-Specification-and-Scan-Order)
+1. [Nmap Scripts and Service Scanning](https://github.com/JGundy64/using-nmap/wiki/Nmap-Scripts-and-Service-Scanning)
+1. [OS Detection](https://github.com/JGundy64/using-nmap/wiki/OS-Detection)
+1. [Output Options](https://github.com/JGundy64/using-nmap/wiki/Nmap-Output-Options)
+1. [Firewall Evasion](https://github.com/JGundy64/using-nmap/wiki/Firewall-Evasion)
+    1. [Timing](https://github.com/JGundy64/using-nmap/wiki/Firewall-Evasion#timing--t--0-5--or---max-rate--number-)
+    1. [Spoofing](https://github.com/JGundy64/using-nmap/wiki/Firewall-Evasion#ip-decoys-or-spoofs--d--ip1---ip2---me--etc-)
+1. [Useful Pre-made commands](https://github.com/JGundy64/using-nmap/wiki/Pre-Made-Commands)
