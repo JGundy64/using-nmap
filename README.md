@@ -7,3 +7,4 @@ This repository was created as a guide or wiki for those interested in cybersecu
 - [x] Intial configuration of the Wiki page
 - [x] Make complient with nmap docs licenses
 - [x] Upload basic information
+- [x] Upload a downloadable docx file of the wiki
