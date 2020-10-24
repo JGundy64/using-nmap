@@ -1,5 +1,5 @@
-# Using Nmap
-This repository was created as a guide for those interested in cybersecurity and specifically penetration testing or network analysis. This guide is aimed at beginners, but hopefully more experienced users can use this guide as a quick refference during a penetration test or teaching others. 
+# Using Nmap (The nmap Cheat Sheet)
+This repository was created as a guide for those interested in cybersecurity and specifically penetration testing or network analysis. This guide is aimed at absolute beginners, but hopefully more experienced users can use this guide as a quick refference or when teaching others. 
 
 # Table of Contents
 1. What is nmap
