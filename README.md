@@ -4,7 +4,4 @@ This repository was created as a guide or wiki for those interested in cybersecu
 ### For the guide and legal info, head over to [the wiki](https://github.com/JGundy64/using-nmap/wiki) or [Download](https://github.com/JGundy64/using-nmap/blob/main/An%20Introduction%20to%20Nmap%20and%20Recon.docx)
 ### For Contributors please read [the Contributing document](https://github.com/JGundy64/using-nmap/blob/main/CONTRIBUTING.md)
 ## TODO List:
-- [x] Intial configuration of the Wiki page
-- [x] Make complient with nmap docs licenses
-- [x] Upload basic information
-- [x] Upload a downloadable docx file of the wiki
+- [ ] 
