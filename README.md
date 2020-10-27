@@ -3,7 +3,5 @@ This repository was created as a guide or wiki for those interested in cybersecu
 
 ### For the guide and legal info, please head over to [the wiki](https://github.com/JGundy64/using-nmap/wiki).
 ### For Contributors please read [the Contributing document](https://github.com/JGundy64/using-nmap/blob/main/CONTRIBUTING.md)
-## TODO List:
-- [ ] Add a thankyou / acknowledgements section
-- [ ] Add graphics to the wiki
-- [ ] Change the GitHub link banner icon
+# TODO:
+- [ ] add graphics to relavent wiki pages
